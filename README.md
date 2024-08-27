@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ![snake gif](https://github.com/prathmesh-d-glitch/prathmesh-d-glitch/blob/output/github-contribution-grid-snake.gif)
+
+- uses: Platane/snk/svg-only@v3
+  with:
+    github_user_name: ${{ github.repository_owner }}
+    outputs: |
+      dist/github-snake.svg
