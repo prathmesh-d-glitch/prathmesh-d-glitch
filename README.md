@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a student at IIIT Gwalior 
+I am a student at IIIT Gwalior.
 
 
 ## 🌐 Socials:
@@ -15,7 +15,7 @@ I am a student at IIIT Gwalior
 ---
 [![](https://visitcount.itsvg.in/api?id=prathmesh-d-glitch&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prathmesh-d-glitch/prathmesh-d-glitch/output/github-contribution-grid-snake-dark.svg">
