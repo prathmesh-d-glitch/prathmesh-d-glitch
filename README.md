@@ -8,7 +8,7 @@ Hey there! I'm currently pursuing my B.Tech in Computer Science and Engineering 
 ## 🌱 I’m currently learning:
 - Mobile App Development (Flutter, Firebase)
 - Artificial Intelligence (Gemini API)
-- Competitive Programming
+- DSA
 
 ---
 
