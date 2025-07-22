@@ -1,14 +1,18 @@
 # 💫 About Me:
 Hey there! I'm currently pursuing my B.Tech in Computer Science and Engineering at IIIT Gwalior. I'm passionate about coding, problem-solving, and always exploring new technologies to fuel my curiosity. Let's connect and create something awesome together!
 
-<img align="right" height="200" width="255" src="https://github.com/user-attachments/assets/7df1c8a0-4019-419f-a9bc-6eae7d3f09fe" />
-
 ---
 
+
 ## 🌱 I’m currently learning:
+<img align="right" height="1000" width="255" src="https://github.com/user-attachments/assets/7df1c8a0-4019-419f-a9bc-6eae7d3f09fe" />
+
 - Mobile App Development (Flutter, Firebase)
 - Artificial Intelligence (Gemini API)
 - DSA
+- Spring Boot
+- HTML/CSS
+<br><br><br>
 
 ---
 
