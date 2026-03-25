@@ -103,7 +103,8 @@ An intelligent scraping framework engineered for performance, reliability, and s
 
 <img src="https://streak-stats.demolab.com?user=prathmesh-d-glitch&locale=en&mode=daily&theme=github-dark&hide_border=true&border_radius=6" height="150" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=prathmesh-d-glitch&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github-dark&hide_border=true" height="150" alt="Top Languages" />
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh-d-glitch&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
