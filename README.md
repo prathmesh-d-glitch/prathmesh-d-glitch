@@ -1,59 +1,116 @@
-# 💫 About Me:
-Hey there! I'm currently pursuing my B.Tech in Computer Science and Engineering at IIIT Gwalior. I'm passionate about coding, problem-solving, and always exploring new technologies to fuel my curiosity. Let's connect and create something awesome together!
-
----
-
-
-## 🌱 I’m currently learning:
-<img align="right" height="1000" width="255" src="https://github.com/user-attachments/assets/7df1c8a0-4019-419f-a9bc-6eae7d3f09fe" />
-
-- Mobile App Development (Flutter, Firebase)
-- Artificial Intelligence (Gemini API)
-- DSA
-- Spring Boot
-- HTML/CSS
-<br><br><br><br>
-
----
-
-## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prathmesh-dubey-92b3252b7)
-
----
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-
----
-
-## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=prathmesh-d-glitch&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prathmesh-d-glitch&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+
+# Prathmesh Dubey
+
+**Software Engineer · Backend Systems · Competitive Programmer**
+
+B.Tech in Computer Science and Engineering · IIIT Gwalior (2023–2027)
+
+I build scalable backend systems, explore AI-powered architectures, and solve hard engineering problems.
+My interests span reactive systems, LLM tooling, mobile development, and competitive programming.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-prathmesh--dubey200-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/prathmesh-dubey200)
+[![GitHub](https://img.shields.io/badge/GitHub-prathmesh--d--glitch-%23181717?style=flat&logo=github&logoColor=white)](https://github.com/prathmesh-d-glitch)
+[![LeetCode](https://img.shields.io/badge/LeetCode-prathmesh-%23FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/prathmesh)
+[![Email](https://img.shields.io/badge/Email-prathmeshdubey10121973@gmail.com-%23EA4335?style=flat&logo=gmail&logoColor=white)](mailto:prathmeshdubey10121973@gmail.com)
+
 </div>
 
 ---
 
-## 🏆 GitHub Contributions:
+## Currently Working On
+
+- Designing multi-provider LLM platforms with RAG pipelines and streaming interfaces
+- Exploring reactive backend systems using **Spring Boot 3** and **Project Reactor**
+- Building cross-platform mobile applications with **Flutter** and **Firebase**
+- Deepening expertise in **Data Structures and Algorithms** through competitive programming
+
+---
+
+## Technical Skills
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2?style=flat&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%234479A1?style=flat&logo=postgresql&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F?style=flat&logo=springboot&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-%236DB33F?style=flat&logo=spring&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B?style=flat&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React.js-%2361DAFB?style=flat&logo=react&logoColor=black)
+![Selenium](https://img.shields.io/badge/Selenium-%2343B02A?style=flat&logo=selenium&logoColor=white)
+![Project Reactor](https://img.shields.io/badge/Project_Reactor-%236DB33F?style=flat&logo=spring&logoColor=white)
+
+**Backend, Cloud & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=flat&logo=amazonaws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1?style=flat&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?style=flat&logo=firebase&logoColor=black)
+![WebSockets](https://img.shields.io/badge/WebSockets-%23010101?style=flat&logo=socketdotio&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-%23C72E49?style=flat&logo=minio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-%23C71A36?style=flat&logo=apachemaven&logoColor=white)
+
+---
+
+## Projects
+
+### AI Dev Console — Multi-Provider LLM & RAG Platform
+`Spring Boot 3` `Spring AI` `Project Reactor` `Docker` `Vector Store` `PWA`
+
+A self-hosted AI developer console built for serious LLM experimentation and production-grade RAG workflows.
+
+- Supports multi-provider LLM backends including **Ollama, OpenAI, Anthropic, and AWS Bedrock** with reactive streaming chat via Project Reactor
+- Implements a full **RAG pipeline** with a custom `BaseAdvisor` for vector-filtered document retrieval, token-based chunking, and tunable semantic similarity thresholds
+- Integrates **Model Context Protocol (MCP)** with a custom `ToolCallingManager` to intercept and stream tool execution events in real-time across STDIO and SSE transports
+- Packaged as a **Docker image** with volume persistence, lifecycle hooks for data restoration, and PWA support for seamless access
+
+---
+
+### WebScraperX — High-Performance Scraping Framework
+`Java` `Selenium` `Jsoup` `Proxy Rotation`
+
+An intelligent scraping framework engineered for performance, reliability, and stealth at scale.
+
+- Designed a **hybrid scraping core** that dynamically switches between Jsoup and Selenium, improving extraction performance by **40%** while maintaining data integrity
+- Built an **anti-detection suite** featuring proxy rotation and header randomization to sustain scraping operations reliably
+- Integrated a configurable **rule-based engine** (CSS/XPath selectors) that reduced site-specific adaptation code by **90%**, enabling rapid deployment across new targets
+
+---
+
+## Experience
+
+### Software Development Intern · CCBUL
+`Aug 2025 – Nov 2025`
+
+- Engineered a full-stack payment solution integrating **MySQL, custom Java APIs, and Razorpay**, achieving a **99.8% transaction success rate**
+- Deployed intelligent AI features via the **Gemini API**, driving a **20% uplift in user engagement**
+- Architected a **real-time chat system using WebSockets**, ensuring low latency under concurrent load
+- Implemented **JWT-based session management** and optimized Flutter UI responsiveness by over **35%**
+- Led and mentored two interns, spearheading the decoupling and optimization of production applications Challengr and IndiaMent
+
+---
+
+
+## GitHub Stats
+
 <div align="center">
-  <h2>GitHub Contribution Snake 🐍</h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prathmesh-d-glitch/prathmesh-d-glitch/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prathmesh-d-glitch/prathmesh-d-glitch/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prathmesh-d-glitch/prathmesh-d-glitch/output/github-contribution-grid-snake.svg" />
-  </picture>
+
+<img src="https://streak-stats.demolab.com?user=prathmesh-d-glitch&locale=en&mode=daily&theme=github-dark&hide_border=true&border_radius=6" height="150" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=prathmesh-d-glitch&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github-dark&hide_border=true" height="150" alt="Top Languages" />
+
 </div>
 
 ---
 
-## 💡 Fun Fact:
-When I’m not coding, you’ll find me exploring new tech, participating in hackathons, or enjoying a good mystery novel!
+<div align="center">
 
----
+*Open to collaborations on backend systems, AI tooling, and anything that ships to production.*
 
-### 🔥 Let's Collaborate and Build Something Cool Together! 🔥
+</div>
