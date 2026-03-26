@@ -58,44 +58,6 @@ My interests span reactive systems, LLM tooling, mobile development, and competi
 
 ---
 
-## Projects
-
-### AI Dev Console — Multi-Provider LLM & RAG Platform
-`Spring Boot 3` `Spring AI` `Project Reactor` `Docker` `Vector Store` `PWA`
-
-A self-hosted AI developer console built for serious LLM experimentation and production-grade RAG workflows.
-
-- Supports multi-provider LLM backends including **Ollama, OpenAI, Anthropic, and AWS Bedrock** with reactive streaming chat via Project Reactor
-- Implements a full **RAG pipeline** with a custom `BaseAdvisor` for vector-filtered document retrieval, token-based chunking, and tunable semantic similarity thresholds
-- Integrates **Model Context Protocol (MCP)** with a custom `ToolCallingManager` to intercept and stream tool execution events in real-time across STDIO and SSE transports
-- Packaged as a **Docker image** with volume persistence, lifecycle hooks for data restoration, and PWA support for seamless access
-
----
-
-### WebScraperX — High-Performance Scraping Framework
-`Java` `Selenium` `Jsoup` `Proxy Rotation`
-
-An intelligent scraping framework engineered for performance, reliability, and stealth at scale.
-
-- Designed a **hybrid scraping core** that dynamically switches between Jsoup and Selenium, improving extraction performance by **40%** while maintaining data integrity
-- Built an **anti-detection suite** featuring proxy rotation and header randomization to sustain scraping operations reliably
-- Integrated a configurable **rule-based engine** (CSS/XPath selectors) that reduced site-specific adaptation code by **90%**, enabling rapid deployment across new targets
-
----
-
-## Experience
-
-### Software Development Intern · CCBUL
-`Aug 2025 – Nov 2025`
-
-- Engineered a full-stack payment solution integrating **MySQL, custom Java APIs, and Razorpay**, achieving a **99.8% transaction success rate**
-- Deployed intelligent AI features via the **Gemini API**, driving a **20% uplift in user engagement**
-- Architected a **real-time chat system using WebSockets**, ensuring low latency under concurrent load
-- Implemented **JWT-based session management** and optimized Flutter UI responsiveness by over **35%**
-- Led and mentored two interns, spearheading the decoupling and optimization of production applications Challengr and IndiaMent
-
----
-
 
 ## GitHub Stats
 
